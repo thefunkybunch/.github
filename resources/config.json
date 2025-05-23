@@ -1,0 +1,13 @@
+{
+  "capes": [
+    {
+      "id": "funkybunch_default",
+      "texture": "funkybunch_cape.png",
+      "users": [
+        "PlayerName1",
+        "PlayerName2",
+        "FactionLeader",
+        "OfficerPlayer"
+      ]
+    }
+    }
